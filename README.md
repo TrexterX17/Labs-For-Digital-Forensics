@@ -678,7 +678,7 @@ Lab-XX-Name/
 
 ## 📫 Contact & Portfolio
 
-**GitHub:** [Your GitHub Profile]  
+**GitHub:** [https://github.com/TrexterX17]  
 **LinkedIn:** [Your LinkedIn Profile]  
 **Email:** [Your Email]  
 **Portfolio Website:** [Your Website]
