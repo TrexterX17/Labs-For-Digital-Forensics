@@ -679,9 +679,8 @@ Lab-XX-Name/
 ## 📫 Contact & Portfolio
 
 **GitHub:** [https://github.com/TrexterX17]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** [Your Email]  
-**Portfolio Website:** [Your Website]
+**LinkedIn:** [https://www.linkedin.com/in/faraz-ahmed-5670931a7/]  
+**Email:** [farazx789@gmail.com]  
 
 ---
 
