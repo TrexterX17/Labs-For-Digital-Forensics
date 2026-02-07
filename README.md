@@ -555,12 +555,7 @@ Each lab includes comprehensive documentation with:
 ```
 Lab-XX-Name/
 ├── README.md (comprehensive documentation)
-├── screenshots/ (organized visual evidence)
-├── evidence/ (extracted artifacts and hashes)
-├── analysis/ (detailed technical analysis)
-├── timeline/ (chronological reconstruction)
-├── iocs/ (indicators of compromise)
-└── notes/ (investigation logs and insights)
+├── lab.pdf (Detailed and practical report with evidence)
 ```
 
 ---
