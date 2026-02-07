@@ -712,10 +712,10 @@ All investigations were conducted in controlled lab environments with proper aut
 
 | Lab | Focus Area | Complexity | View Report |
 |-----|------------|------------|-------------|
-| **Lab 01** | Disk Imaging & Hash Verification | ⭐⭐⭐ | [View →](./Lab-01-Disk-Imaging-Hash-Verification/) |
-| **Lab 02** | File Recovery & Analysis | ⭐⭐⭐⭐ | [View →](./Lab-02-Forensic-Analysis-File-Recovery/) |
-| **Lab 03** | Phishing Investigation | ⭐⭐⭐⭐ | [View →](./Lab-03-Phishing-Investigation-Incident-Response/) |
-| **Lab 04** | Memory & Malware Analysis | ⭐⭐⭐⭐⭐ | [View →](./Lab-04-Memory-Forensics-Malware-Analysis/) |
+| **Lab 01** | Disk Imaging & Hash Verification | ⭐⭐⭐ | [View →](https://github.com/TrexterX17/Labs-for-Digital-Forensics/blob/master/Lab-01/HW%201-%20Lab%201.pdf) |
+| **Lab 02** | File Recovery & Analysis | ⭐⭐⭐⭐ | [View →](https://github.com/TrexterX17/Labs-for-Digital-Forensics/blob/master/Lab-02/HW%202-%20Lab%202.pdf) |
+| **Lab 03** | Phishing Investigation | ⭐⭐⭐⭐ | [View →](https://github.com/TrexterX17/Labs-for-Digital-Forensics/blob/master/Lab-03/HW%203-%20Lab%203.pdf) |
+| **Lab 04** | Memory & Malware Analysis | ⭐⭐⭐⭐⭐ | [View →](https://github.com/TrexterX17/Labs-for-Digital-Forensics/blob/master/Lab-04/HW%204-%20Lab%204.pdf) |
 
 ---
 
