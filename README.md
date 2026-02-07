@@ -649,3 +649,81 @@ Lab-XX-Name/
 ✅ Ethical considerations (privacy, legal requirements)  
 
 ---
+
+## 🎓 Continuous Learning
+
+### Areas of Ongoing Development
+
+**Advanced Topics Explored:**
+- File system forensics (NTFS, HFS+, APFS, ext4)
+- Memory forensics (Windows, Linux, macOS)
+- Malware reverse engineering
+- Network forensics and packet analysis
+- Cloud forensics (AWS, Azure, GCP)
+- Mobile forensics (iOS, Android)
+
+**Industry Certifications Preparation:**
+- GCFA (GIAC Certified Forensic Analyst)
+- GCFE (GIAC Certified Forensic Examiner)
+- EnCE (EnCase Certified Examiner)
+- CHFI (Computer Hacking Forensic Investigator)
+
+**Emerging Technologies:**
+- AI/ML for malware detection
+- Container forensics (Docker, Kubernetes)
+- Blockchain forensics
+- IoT device forensics
+
+---
+
+## 📫 Contact & Portfolio
+
+**GitHub:** [Your GitHub Profile]  
+**LinkedIn:** [Your LinkedIn Profile]  
+**Email:** [Your Email]  
+**Portfolio Website:** [Your Website]
+
+---
+
+## 🙏 Acknowledgments
+
+This portfolio was developed through rigorous hands-on lab work in digital forensics education. Each investigation follows industry best practices and demonstrates real-world applicability of forensic techniques.
+
+**Tools & Resources:**
+- Autopsy Project (Sleuth Kit)
+- Volatility Foundation
+- SANS Digital Forensics & Incident Response
+- NIST Computer Forensics Tool Testing Project
+
+---
+
+## 📜 License & Usage
+
+This portfolio is intended for:
+- Educational purposes
+- Professional showcase
+- Job application demonstrations
+- Skill verification
+
+All investigations were conducted in controlled lab environments with proper authorization. Techniques demonstrated should only be used for legitimate forensic investigations with appropriate legal authority.
+
+---
+
+## 🚀 Quick Navigation
+
+| Lab | Focus Area | Complexity | View Report |
+|-----|------------|------------|-------------|
+| **Lab 01** | Disk Imaging & Hash Verification | ⭐⭐⭐ | [View →](./Lab-01-Disk-Imaging-Hash-Verification/) |
+| **Lab 02** | File Recovery & Analysis | ⭐⭐⭐⭐ | [View →](./Lab-02-Forensic-Analysis-File-Recovery/) |
+| **Lab 03** | Phishing Investigation | ⭐⭐⭐⭐ | [View →](./Lab-03-Phishing-Investigation-Incident-Response/) |
+| **Lab 04** | Memory & Malware Analysis | ⭐⭐⭐⭐⭐ | [View →](./Lab-04-Memory-Forensics-Malware-Analysis/) |
+
+---
+
+<div align="center">
+
+**Digital Forensics Portfolio** | **Faraz Ahmed** | **2025**
+
+*Demonstrating comprehensive expertise in digital forensics, incident response, and malware analysis through hands-on investigations*
+
+</div>
