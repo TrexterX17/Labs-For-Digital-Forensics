@@ -708,7 +708,7 @@ All investigations were conducted in controlled lab environments with proper aut
 
 ---
 
-## 🚀 Quick Navigation
+## 🚀 Quick Navigation (Documents)
 
 | Lab | Focus Area | Complexity | View Report |
 |-----|------------|------------|-------------|
