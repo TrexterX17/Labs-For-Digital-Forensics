@@ -85,7 +85,7 @@ This repository contains detailed documentation of **four advanced digital foren
 - Evidence integrity documentation
 - Understanding of write blockers and their importance
 
-[📖 View Detailed Lab Report →](./Lab-01-Disk-Imaging-Hash-Verification/)
+[📖 View Detailed Lab Report →](https://github.com/TrexterX17/Labs-For-Digital-Forensics/blob/master/Lab-01/HW%201-%20Lab%201.pdf)
 </details>
 
 **Impact:** Foundational skills for all digital forensics work—proper evidence acquisition is critical for legal admissibility and investigation integrity.
@@ -144,7 +144,7 @@ This repository contains detailed documentation of **four advanced digital foren
 - File system artifact analysis
 - Hash-based file differentiation
 
-[📖 View Detailed Lab Report →](./Lab-02-Forensic-Analysis-File-Recovery/)
+[📖 View Detailed Lab Report →](https://github.com/TrexterX17/Labs-For-Digital-Forensics/blob/master/Lab-02/HW%202-%20Lab%202.pdf)
 </details>
 
 **Impact:** Demonstrates ability to recover critical business data and conduct comprehensive system examinations—essential for corporate investigations and data recovery operations.
@@ -213,7 +213,7 @@ This repository contains detailed documentation of **four advanced digital foren
 - Executive-level reporting and recommendations
 - Incident response methodology
 
-[📖 View Detailed Lab Report →](./Lab-03-Phishing-Investigation-Incident-Response/)
+[📖 View Detailed Lab Report →](https://github.com/TrexterX17/Labs-For-Digital-Forensics/blob/master/Lab-03/HW%203-%20Lab%203.pdf)
 </details>
 
 **Impact:** Demonstrates incident response capabilities and ability to conduct investigations that inform both technical remediation and organizational policy—critical for IR teams and SOC analysts.
@@ -335,7 +335,7 @@ System Fully Compromised
 - Persistence mechanism investigation
 - Threat intelligence integration (VirusTotal)
 
-[📖 View Detailed Lab Report →](./Lab-04-Memory-Forensics-Malware-Analysis/)
+[📖 View Detailed Lab Report →](https://github.com/TrexterX17/Labs-For-Digital-Forensics/blob/master/Lab-04/HW%204-%20Lab%204.pdf)
 </details>
 
 **Impact:** Demonstrates advanced malware analysis capabilities essential for threat hunting, malware analysis teams, and sophisticated incident response—this is expert-level forensics.
